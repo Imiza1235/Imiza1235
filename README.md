@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a third-year AIML student with a deep passion for coding, problem-solving, and responsible practices. My strong technical skills and comprehensive knowledge of AI and machine learning empower me to tackle complex challenges with confidence. I actively engage in coding competitions and hackathons, constantly sharpening my problem-solving abilities. Ethical considerations are always at the forefront of my mind, as I prioritize fairness, transparency, and data privacy in all my AI applications. With my dedication and expertise, I am determined to make a significant impact in the AIML field and contribute to its advancements.
+👩‍💻 I'm a third-year AIML student with a 🔥 passion for coding, problem-solving, and responsible practices. 💪 My strong technical skills and comprehensive knowledge of AI and machine learning empower me to tackle complex challenges with confidence. 🧠 I actively engage in coding competitions and hackathons, constantly sharpening my problem-solving abilities. ⚖️ Ethical considerations are always at the forefront of my mind, as I prioritize fairness, transparency, and data privacy in all my AI applications. 🚀 With my dedication and expertise, I am determined to make a significant impact in the AIML field and contribute to its advancements. 🌟
 
 
 ## 🌐 Socials:
